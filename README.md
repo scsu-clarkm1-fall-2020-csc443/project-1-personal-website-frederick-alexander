@@ -13,7 +13,7 @@ In this project, you are to implement a static website for a personal or profess
 ### Plan
 Your website must exist for one or more practical purposes. First create a planning document which details the goals and objectives of your website. The planning document can be written in any format (I recommend markdown) and should contain the following sections:
 
-1. Overiew - Describe the practical purpose that this site will address and some basic details of the site (such as number of pages, dynamic/static, responsive, etc.).
+1. Overview - Describe the practical purpose that this site will address and some basic details of the site (such as number of pages, dynamic/static, responsive, etc.).
 2. Goals - Describe the main goals of the site along with objectives that describe how the site will reach that goal.
 3. Target Users - Describe several user personas that will utilize your site.
 4. Content - Summarize the content of your site on a per-page basis as well as any non-page elements which deserve mention.
