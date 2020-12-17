@@ -2,8 +2,6 @@ body {
     background-color: #303030;
 }
 
-.navbar-brand {float:none;}
-
 h1 {
     color: white;
 }
@@ -15,10 +13,19 @@ p {
 .navbar-nav {
     font-size: small;
 }
+
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
     background-color: black;
 }
 
 .nav-pills .nav-link {
     border-radius: 0;
+}
+
+a {
+    color: #999999;
+}
+
+a:hover {
+    color: white;
 }
