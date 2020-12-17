@@ -29,3 +29,7 @@ a {
 a:hover {
     color: white;
 }
+
+.card {
+    height: 20%;
+}
