@@ -26,6 +26,10 @@ p {
     background-color: black;
 }
 
+nav {
+    margin-bottom: 10rem;
+}
+
 .nav-pills .nav-link {
     border-radius: 0;
 }
