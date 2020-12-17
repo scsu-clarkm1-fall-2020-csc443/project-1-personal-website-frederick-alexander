@@ -8,8 +8,16 @@ h1 {
 
 p {
     color: white;
+} 
 
+.a {
+    color: white;
 }
+
+.a:hover {
+    color: white;
+}
+
 .navbar-nav {
     font-size: small;
 }
