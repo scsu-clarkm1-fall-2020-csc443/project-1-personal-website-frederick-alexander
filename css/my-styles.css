@@ -33,8 +33,3 @@ a {
 .card {
     height: 20%
 }
-
-.div.sublinks.collapse {
-    overflow: overlay;
-    max-height: 20%;
-}
