@@ -3,3 +3,12 @@ body {
 }
 
 .navbar-brand {float:none;}
+
+h1 {
+    color: white;
+}
+
+p {
+    color: white;
+
+}
