@@ -2,15 +2,7 @@ body {
     background-color: #303030;
 }
 
-h1 {
-    color: white;
-}
-
-p {
-    color: white;
-} 
-
-.a {
+h1, p, a, a:hover {
     color: white;
 }
 
@@ -38,10 +30,11 @@ a {
     color: #999999;
 }
 
-a:hover {
-    color: white;
-}
-
 .card {
     height: 20%
+}
+
+.div.sublinks.collapse {
+    overflow: overlay;
+    max-height: 20%;
 }
