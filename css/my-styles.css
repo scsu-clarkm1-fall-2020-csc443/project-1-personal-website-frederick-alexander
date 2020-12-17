@@ -12,3 +12,13 @@ p {
     color: white;
 
 }
+.navbar-nav {
+    font-size: small;
+}
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    background-color: black;
+}
+
+.nav-pills .nav-link {
+    border-radius: 0;
+}
